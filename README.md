@@ -1,1 +1,1 @@
-# ff-photoProject
+# Fergus Ford Photography Project
